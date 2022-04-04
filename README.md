@@ -3,6 +3,7 @@
 ## AP CS-A Projects
 
 ## Discord Survivor Bot
+* [Survivor Bot]
 
 ## XCode Projects
 
