@@ -1,6 +1,8 @@
 # IOS-Portfolio-Rubin22
 
 ## AP CS-A Projects
+* [Advent of Code](https://github.com/haonnoah123/adventOfCode2021)
+
 
 ## [Discord Survivor Bot](https://github.com/haonnoah123/discordSurvivorBot)
 
