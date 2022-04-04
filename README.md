@@ -2,16 +2,15 @@
 
 ## AP CS-A Projects
 
-## Discord Survivor Bot
-* [Survivor Bot](https://github.com/haonnoah123/discordSurvivorBot)
+## [Discord Survivor Bot](https://github.com/haonnoah123/discordSurvivorBot)
 
-## XCode Projects
-* Tutorials
-  * [first tutorial](https://github.com/haonnoah123/warCardGame)
 
-  * [second tutorial](https://github.com/haonnoah123/Apple-Map-Tutorial)
+## XCode Tutorials
+* [War Card Game](https://github.com/haonnoah123/warCardGame)
 
-* [Stickers!](https://github.com/haonnoah123/iOS-Stickers)
+* [MapKit/SwiftUI Tutorial](https://github.com/haonnoah123/Apple-Map-Tutorial)
 
-* [My First Non-Tutorial App](https://github.com/haonnoah123/first-app)
+## [SkySkirmish](https://github.com/WillPeyer/SkySkirmish)
+
+
 
