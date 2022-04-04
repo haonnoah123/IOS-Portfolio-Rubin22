@@ -3,7 +3,7 @@
 ## AP CS-A Projects
 
 ## Discord Survivor Bot
-*[Survivor Bot]
+* [Survivor Bot](https://github.com/haonnoah123/discordSurvivorBot)
 
 ## XCode Projects
 
