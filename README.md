@@ -1,5 +1,11 @@
 # IOS-Portfolio-Rubin22
 
+## AP CS-A Projects
+
+## Discord Survivor Bot
+
+## XCode Projects
+
 [first tutorial](https://github.com/haonnoah123/warCardGame)
 
 [second tutorial](https://github.com/haonnoah123/Apple-Map-Tutorial)
