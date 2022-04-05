@@ -1,4 +1,4 @@
-# IOS-Portfolio-Rubin22
+# iOS-Portfolio-Rubin22
 
 ## [Advent of Code](https://github.com/haonnoah123/adventOfCode2021)
 * During the month of December I tried to complete as many days of Advent of Code as possible. At the beginning the challenges were simply but very quickly started to get harder and challenge my skills. I learned a lot about how to approach coding problems, and expanded my problem solving skills. 
@@ -14,7 +14,7 @@
 
 ## xCode Tutorials
 * [War Card Game](https://github.com/haonnoah123/warCardGame)
-
+  * The[ War Card Game tutorial](https://www.youtube.com/watch?v=lIxq4TCdlRU) from CodeWithChris was my first ever project using xCode and Swift. I learned a lot about buttons, VStacks, HStacks, and how to set up SwiftUI views. It also shows how to add and use images in apps.
 * [MapKit/SwiftUI Tutorial](https://github.com/haonnoah123/Apple-Map-Tutorial)
-
+  * The [SwiftUI Tutorial](https://developer.apple.com/tutorials/swiftui) from Apple was a very in depth tutorial which I used to advance my knowledge on both SwiftUI and Swift. I learned about how to setup navigation views, utilize JSON files, use Structures, and navigate user input.
 
