@@ -1,5 +1,7 @@
 # iOS-Portfolio-Rubin22
 
+Hi! My name is Noah Rubin and this is my protfolio of projects I have worked on throughout high school. I have taken both AP CSA where I learned Java and I have also taken iOS app development where I learned how to use Swift, SwiftUI, and SpriteKit. I have worked on many projects using my skills from AP CSA such as Hawaiian Words, and coding a Discord Bot to replicate the game show Survivor. Currently I am working on the development of SkySkirmish, which is a Bullet-Hell style game, which is developed using SpriteKit.
+
 ## [Advent of Code](https://github.com/haonnoah123/adventOfCode2021)
 * During the month of December I tried to complete as many days of Advent of Code as possible. At the beginning the challenges were simply but very quickly started to get harder and challenge my skills. I learned a lot about how to approach coding problems, and expanded my problem solving skills. 
 
